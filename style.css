@@ -121,6 +121,7 @@ button{
 .Boxes{
     display: flex;
     justify-content: space-evenly;
+    flex-wrap: wrap;
 }
 .heading{
     display: flex;
